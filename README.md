@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @Raazh12
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Raazh12/Raazh12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @Raazh12  
+👀 I’m a MERN Stack Developer with a passion for mobile app development.  
+🌱 I’m currently learning advanced React Native and exploring backend optimization.  
+💞️ I’m looking to collaborate on innovative web and mobile applications.  
+📫 How to reach me: raazh12@example.com  
+😄 Pronouns: he/him  
+⚡ Fun fact: I love experimenting with new technologies and building side projects!
